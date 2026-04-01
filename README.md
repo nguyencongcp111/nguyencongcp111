@@ -1,4 +1,4 @@
-# 👋 Hi, Thanh Cong Nguyen's here!
+# 👋 Hi, Thanh Cong Nguyen Pham's here!
 
 🎓 Student  
 💻 Learning Backend / Database  
